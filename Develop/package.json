@@ -10,6 +10,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "inquirer": "^6.5.2",
+    "util": "^0.12.3",
     "utils": "^0.3.1"
   },
   "keywords": [],

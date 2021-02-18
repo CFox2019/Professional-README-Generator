@@ -15,27 +15,27 @@ const questions = [
     {
         type: 'input',
         name: 'description',
-        message: 'Description of the project'
+        message: 'How would you describe this project?'
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'What are the installation instructions?'
+        message: 'What are the instructions for installation?'
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'How do you use the application? (Include screenshots)'
+        message: 'How do you use the application? (Include screenshots, if you have any)'
     },
     {
         type: 'input',
         name: 'contribution',
-        message: 'List any contributers or any third-party assets that require attribution.'
+        message: 'What instructions do you have for anyone contributing to this project?'
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'If you ran any tests, include examples.'
+        message: 'How are tests run in this project?'
     },
     {
         type: 'input',

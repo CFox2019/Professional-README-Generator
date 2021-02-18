@@ -34,7 +34,7 @@ Currently, there are no tests in the project. If you're interested in contributi
 
 ## Questions
 
-GitHub: [https://github.com/CFox2019](https://github.com/CFox2019)
+GitHub: [CFox2019](https://github.com/CFox2019)
 
 Email me at [courtney.fox@me.com](courtney.fox@me.com) with additional questions.
 

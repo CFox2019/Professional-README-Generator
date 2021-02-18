@@ -99,7 +99,7 @@ ${answers.tests}
 ## Questions
 GitHub: [${answers.github}](${answers.githublink})
 
-Email me at [${answers.email}](${answers.email}) with additiona questions.
+Email me at [${answers.email}](${answers.email}) with additional questions.
 
 ## License
 This project is covered under the ${answers.license} license.
@@ -118,12 +118,3 @@ promptUser()
 .catch(function(err) {
     console.error(err);
 })
-
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-
-// // TODO: Create a function to initialize app
-// function init() {}
-
-// // Function call to initialize app
-// init();

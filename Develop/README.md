@@ -1,7 +1,7 @@
 
-![](https://img.shields.io/badge/license--brightgreen)
+![MIT](https://img.shields.io/badge/license-MIT-brightgreen)
 
-# asdfasdf
+# Professional README Generator
 
 ## Table of Contents
 
@@ -14,25 +14,24 @@
 * [License](#license)
 
 ## Description
-asdasdf
+The Professional README Generator allows the user to quicklu and easily create a professional README. Simply run the generator using the instructions provided below to create your README.
 
 ## Installation
-asdfasd
+To begin, start by cloning this repository to your computer. Next, install the projects dependencies by running the following command `npm install`.
 
 ## Usage
-asdfasdf
+Begin by running `node index.js`. You will then be prompted with a series of questions to answer. Once all of the questions have been answered, your README will be generated using your answers. You will find the README in the `Develop` folder.
 
 ## Contributing
-asdfsdf
+If you'd like to contribute to this project, start by forking the repository to your personal GitHub account. From there, make your changes and then open a Pull Request in this repository against the branch in your fork.
 
 ## Tests
-asdfds
+Currently, there are no tests in the project. If you're interested in contributing to the project, this is something that would be a great contribution.
 
 ## Questions
-GitHub: [asdfsdf](asdfsdf)
+GitHub: [CFox2019](https://github.com/CFox2019)
 
-To contact me with additional questions, please reach me at:
-[asdfsdf](asdfsdf)
+Email me at [courtney.fox@me.com](courtney.fox@me.com) with additiona questions.
 
 ## License
-This project is covered under the  license.
+This project is covered under the MIT license.

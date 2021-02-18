@@ -39,4 +39,4 @@ Email me at [courtney.fox@me.com](courtney.fox@me.com) with additional questions
 
 ## License
 
-Professional README Generator is licensed under the MIT License
+Professional README Generator is covered under the MIT License

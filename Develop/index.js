@@ -99,8 +99,7 @@ ${answers.tests}
 ## Questions
 GitHub: [${answers.github}](${answers.githublink})
 
-To contact me with additional questions, please reach me at:
-[${answers.email}](${answers.email})
+Email me at [${answers.email}](${answers.email}) with additiona questions.
 
 ## License
 This project is covered under the ${answers.license} license.

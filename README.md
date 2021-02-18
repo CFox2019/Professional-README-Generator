@@ -1,5 +1,6 @@
 # Professional README Generator
 
+![https://img.shields.io/badge/license-MIT-brightgreen](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Table of Contents
 

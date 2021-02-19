@@ -14,11 +14,11 @@
 
 ## Description
 
-The Professional README Generator allows the user to quicklu and easily create a professional README. Simply run the generator using the instructions provided below to create your README.
+The Professional README Generator allows the user to quickly and easily create a professional README. Simply run the generator using the instructions provided below to create your README.
 
 ## Installation
 
-To begin, start by cloning this repository to your computer. Next, install the projects dependencies by running the following command `npm install`.
+To begin, start by cloning this repository to your computer. Next, install the project's dependencies by running the following command `npm install`.
 
 ## Usage
 

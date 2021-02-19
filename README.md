@@ -24,13 +24,15 @@ To begin, start by cloning this repository to your computer. Next, install the p
 
 Begin by running `node index.js`. You will then be prompted with a series of questions to answer. Once all of the questions have been answered, your README will be generated using your answers. You will find the README in the `Develop` folder.
 
+![Professional README Generator](./assets/Professional-README-Generator.gif)
+
 ## Contributing
 
 If you'd like to contribute to this project, start by forking the repository to your personal GitHub account. From there, make your changes and then open a Pull Request in this repository against the branch in your fork.
 
 ## Tests
 
-Currently, there are no tests in the project. If you're interested in contributing to the project, this is something that would be a great contribution. 
+Currently, there are no tests in the project. If you're interested in contributing to the project, this is something that would be a great contribution.
 
 ## Questions
 

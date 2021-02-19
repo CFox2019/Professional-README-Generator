@@ -25,7 +25,7 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'How do you use the application? (Include screenshots, if you have any)'
+        message: 'How do you use the application?'
     },
     {
         type: 'input',
